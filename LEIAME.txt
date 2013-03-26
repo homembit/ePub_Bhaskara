@@ -1,0 +1,2 @@
+Validado ePUB3 em - http://validator.idpf.org/
+Testado com a extensão Readium no Google Chrome (melhor suporte a ePUB3 conhecido)
